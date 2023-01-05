@@ -15,5 +15,6 @@ System.out.println("Hello World");
 		
 		System.out.println(c);
 		System.out.println(b);
+		System.out.println("answer = " + c);
 	}
 }
