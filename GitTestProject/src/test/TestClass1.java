@@ -13,5 +13,7 @@ public class TestClass1 {
 		}
 		
 		System.out.println(c);
+		
+		System.out.println("개발 진행 중 동일 파일이 변경되었을 경우 merge 필요");
 	}
 }
