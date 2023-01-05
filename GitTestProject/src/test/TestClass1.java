@@ -18,5 +18,6 @@ public class TestClass1 {
 		
 		System.out.println("개발 진행 중 동일 파일이 변경되었을 경우 merge 필요");
 		System.out.println("master에서 변경된 소스 개발브랜치에서 수정함.");
+		System.out.println("merge 후 master 변경");
 	}
 }
